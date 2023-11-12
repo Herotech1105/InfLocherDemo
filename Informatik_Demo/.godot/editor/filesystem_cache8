@@ -1,0 +1,11 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1699778774
+hauptmenü.gd::GDScript::-1::1699778476::0::1::::<>Node2D<>::
+hauptmenü.tscn::PackedScene::2584818353948148447::1699778476::0::1::::<><>::res://hauptmenü.gd
+icon.svg::CompressedTexture2D::3086935927749826561::1699778476::1699778776::1::::<><>::
+Main.gd::GDScript::-1::1699778476::0::1::::<>Node<>::
+main.tscn::PackedScene::8156574136276011171::1699778476::0::1::::<><>::res://Main.gd
+Pong.gd::GDScript::-1::1699778476::0::1::::<>Node2D<>::
+pong.tscn::PackedScene::5401238509658913603::1699778476::0::1::::<><>::res://Pong.gd
+Timer.gd::GDScript::-1::1699778476::0::1::::<>Label<>::
+timer.tscn::PackedScene::7638270708416497325::1699778476::0::1::::<><>::res://Timer.gd

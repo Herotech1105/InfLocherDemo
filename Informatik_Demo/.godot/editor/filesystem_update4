@@ -1,0 +1,9 @@
+res://pong.tscn
+res://main.tscn
+res://hauptmenü.tscn
+res://Player.gd
+res://Delta.gd
+res://timer.tscn
+res://Ball.gd
+res://Counter.gd
+res://Player 2.gd
