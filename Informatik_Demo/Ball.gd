@@ -32,12 +32,12 @@ func _physics_process(delta):
 			direction = 1
 	
 	if position.x<0:
-		#left+=1
+		get_node("/root/Pong/Counter").Left+=1
 		score = 1
 		_ready()
 		
 	if position.x>1150:
-		#right+=1
+		get_node("/root/Pong/Counter").Right+=1
 		score = 2
 		_ready()
 	
